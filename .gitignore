@@ -13,3 +13,10 @@ ENV/
 
 # Ignore VSCode settings (optional)
 .vscode/
+
+# Ignore ffmpeg binaries
+bin/
+
+                                                                                                                                                    
+
+                                                                                                                                                    
